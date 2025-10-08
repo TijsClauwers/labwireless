@@ -1,0 +1,5 @@
+
+adafruit-blinka
+adafruit-circuitpython-bmp280
+adafruit-circuitpython-tinylora==2.2.6
+requests
